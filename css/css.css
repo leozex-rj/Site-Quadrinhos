@@ -1,0 +1,21 @@
+body{
+	background-image: url(../img/fundo.jpg);
+	background-position: 30% 45%;
+
+}
+
+.container{
+	background-color: #80bdff;
+}
+
+#barraCadastro{
+	background-color: #b9bbbe;
+}
+
+#addRes{
+	background-color: #b9bbbe;
+}
+
+#rodape{
+	background-color: #b9bbbe;
+}
